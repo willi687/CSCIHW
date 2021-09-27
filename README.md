@@ -1,4 +1,4 @@
-# CSCIHW
-# P&PS1
-# Name: Greg Walsh
-# Fall 2021 
+##CSCIHW
+P&PS1
+Name: Greg Walsh
+Fall 2021 
