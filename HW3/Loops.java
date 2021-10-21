@@ -14,7 +14,7 @@ public class Loops {
     //loopE("eat") -> true
     //eeat -> true
     //eeeat -> true
-    //eeeat -> false
+    //eeeeat -> false
 
     public static boolean loopE(String str){
         return true; // <- this should be changed 
