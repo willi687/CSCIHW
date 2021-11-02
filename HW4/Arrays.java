@@ -5,6 +5,8 @@ public class Arrays {
     // CONVERT THE SUMS METHOD FROM HW3 TO ADD EACH VALUE TO AN ARRAY AND THEN OUTPUT THE 
     // ARRAY AND THE TOTAL.
     // SEE HW3 FOR SUMS METHOD
+    // If you want to use an ArrayList for the inputs to be dynamic that is okay
+    // Otherwise if you are using a regular array, assume the size is 10 total. 
     // EXAMPLE 
     // I will add up the numbers you give me....
     // Number: 12
