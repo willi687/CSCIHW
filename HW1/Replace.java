@@ -7,8 +7,9 @@ package HW1;
 // HELLO
 // 01234
 public class Replace {
+        //s.substring() lookup java substring java replace charecter in string at certain index
     public String charReplace(String s, int x, char z) {
-        return null;
+     return s.substring(0, x) + z + s.substring(x+1);
         
     }
     
